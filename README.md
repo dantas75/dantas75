@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dantas75
-- 👀 I’m interested in learn abaout java, python and others 
+- 👀 I’m interested in learn about java, python and others 
 - 🌱 I’m currently learning java
 - 📫 How to reach me: lucasdantas.machado@outlook.com/ @lucasdantas75
 
